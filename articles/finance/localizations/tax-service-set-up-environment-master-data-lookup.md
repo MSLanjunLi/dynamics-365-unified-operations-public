@@ -204,10 +204,9 @@ For more information, see [Enable Microsoft Dataverse virtual entities](../../fi
 ## <a name='set-up'></a>Set up the connected application for Tax Calculation
 
 1. In RCS, open the **Feature management** workspace, and enable the following features:
-
+    - Globalization features
     - Electronic reporting Dataverse datasources support
     - Tax Service Dataverse datasources support
-    - Globalization features
 
 2. Go to **Electronic reporting**, and then, in the **Related links** section, select **Connected applications**.
 
